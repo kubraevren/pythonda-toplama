@@ -1,0 +1,5 @@
+'''  mil = km / 1.609344 '''
+
+kilometre = float(input("kilometre bilgisi giriniz:"))
+mil = (kilometre/1.609344)
+print(mil)
