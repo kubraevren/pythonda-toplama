@@ -2,4 +2,6 @@
 
 kilometre = float(input("kilometre bilgisi giriniz:"))
 mil = (kilometre/1.609344)
+mil = round(mil, 2)
+
 print(mil)
