@@ -1,0 +1,7 @@
+r = float(input("yarıçap giriniz:"))
+pi = 3.14
+
+alan = pi *( r * r)
+çevre = pi*2*r
+print(alan)
+print(çevre)
